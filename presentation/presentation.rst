@@ -72,7 +72,7 @@ Agenda cont.
 
 /usr/bin/whoami
 ===============
-Thomas A. McGonagle
+Nia Sherony
 -------------------
 Solutions Architect
 -------------------
